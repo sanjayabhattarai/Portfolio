@@ -45,7 +45,7 @@ export default function About() {
               <p className="text-[var(--muted)] leading-[1.8] mb-8">
                 Outside of code, I do stand-up comedy. Reached{" "}
                 <span className="text-[var(--fg)] font-medium">Top 24 out of 8,000</span> on Comedy
-                Champion Nepal. Debugging and punchline timing have more in common than you'd think.
+                Champion Nepal. Debugging and punchline timing have more in common than you&apos;d think.
               </p>
             </FadeIn>
             <FadeIn delay={0.22}>
